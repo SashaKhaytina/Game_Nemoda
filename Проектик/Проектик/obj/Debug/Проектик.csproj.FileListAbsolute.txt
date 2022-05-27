@@ -1,0 +1,11 @@
+C:\Users\Юрий\source\repos\Проектик\Проектик\bin\Debug\Проектик.exe.config
+C:\Users\Юрий\source\repos\Проектик\Проектик\bin\Debug\Проектик.exe
+C:\Users\Юрий\source\repos\Проектик\Проектик\bin\Debug\Проектик.pdb
+C:\Users\Юрий\source\repos\Проектик\Проектик\obj\Debug\Проектик.csproj.AssemblyReference.cache
+C:\Users\Юрий\source\repos\Проектик\Проектик\obj\Debug\Проектик.csproj.SuggestedBindingRedirects.cache
+C:\Users\Юрий\source\repos\Проектик\Проектик\obj\Debug\Проектик.Form1.resources
+C:\Users\Юрий\source\repos\Проектик\Проектик\obj\Debug\Проектик.Properties.Resources.resources
+C:\Users\Юрий\source\repos\Проектик\Проектик\obj\Debug\Проектик.csproj.GenerateResource.cache
+C:\Users\Юрий\source\repos\Проектик\Проектик\obj\Debug\Проектик.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\source\repos\Проектик\Проектик\obj\Debug\Проектик.exe
+C:\Users\Юрий\source\repos\Проектик\Проектик\obj\Debug\Проектик.pdb
